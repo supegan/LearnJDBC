@@ -1,0 +1,3 @@
+[submodule "newlocal"]
+	path = newlocal
+	url = git@github.com:lantian1065258523/newlocal.git
