@@ -1,1 +1,2 @@
 ﻿remote master clear all content
+remote master add a row ，本地personal分支将其拉取，并查看效果
