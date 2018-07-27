@@ -1,8 +1,1 @@
-﻿master添加一个文件，本地拉取后，推送到远程个人分支
-ss
-远程master添加一行
-本地dev添加一行
-远程master12.01分添加一行
-远程master12.06分添加一行
-master add one row
-remote master add a row 2018/07/28 12.05
+remote master clear all content
